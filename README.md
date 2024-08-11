@@ -26,7 +26,6 @@ repositories {
         url "https://maven2.bai.lol"
         content {
             includeGroup "lol.bai"
-            includeGroup "mcp.mobius.waila"
         }
     }
 }
